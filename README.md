@@ -12,5 +12,5 @@ This is a small template project for testing your docker container. It uses `pyt
 pip install -r requirements-dev.txt
 
 # run the tests
-cd tests && pytest -v
+pytest -v
 ```
